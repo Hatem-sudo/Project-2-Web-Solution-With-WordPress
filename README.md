@@ -1,6 +1,6 @@
 # Project-2-Web-Solution-With-WordPress
 
-![Capture3](https://user-images.githubusercontent.com/74002629/226575833-7d752dee-235f-45c9-a19d-57fcdf71df2a.PNG)
+![0](https://github.com/Hatem-sudo/Project-2-Web-Solution-With-WordPress/assets/113099054/96cc7b07-2639-483c-b70a-eae9bb5d3325)
 
 ### Part 1: Configure storage subsystem for Web and Database servers based on Linux OS.
 
